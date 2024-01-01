@@ -54,7 +54,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://d3m.mie.utoronto.ca/"><img src="/assets/img/uoft.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://d3m.mie.utoronto.ca/"><img src="assets/img/headShot.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -85,7 +85,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://www.utoronto.ca/"><img src="/assets/img/uoft.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.utoronto.ca/"><img src="assets/img/headShot.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -116,7 +116,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://vectorinstitute.ai/"><img src="/assets/img/vector.jpg" 
+    <a rel="noreferrer noopener" target="_blank" href="https://vectorinstitute.ai/"><img src="/assets/img/headShot.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -148,7 +148,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><img src="/assets/img/meta.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><img src="/assets/img/headShot.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -181,7 +181,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><img src="/assets/img/autoronto.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect"><img src="/assets/img/headShot.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -213,7 +213,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://www.loblawdigital.co/"><img src="/assets/img/ld.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.loblawdigital.co/"><img src="/assets/img/headShot.jpg" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -246,7 +246,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://contentturbine.com/"><img src="/assets/img/freelance.png"
+    <a rel="noreferrer noopener" target="_blank" href="https://contentturbine.com/"><img src="/assets/img/headShot.jpg"
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -279,7 +279,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <a target="_blank" rel="noreferrer noopener" href="https://www.orangetopi.com/"><img src="/assets/img/foodtrain.png"
+    <a target="_blank" rel="noreferrer noopener" href="https://www.orangetopi.com/"><img src="/assets/img/headShot.jpg"
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -312,7 +312,7 @@ layout: default
 
 <div class="row">
   <div class="columnl">
-    <img src="/assets/img/delovery.png"
+    <img src="/assets/img/headShot.jpg"
     class="thumbnail"/>
   </div>
   <details class="columnr">
