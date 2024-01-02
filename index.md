@@ -61,7 +61,7 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Computer Integrated Manufacturing Lab (CIMLab)</h2>
+        <h2>Computer Integrated Manufacturing Lab</h2>
         <h3>Research Assistant</h3>
         <h4>May 2023 - Present</h4>
       </div>
@@ -111,7 +111,10 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Setup and executed stressful memory tests and performed careful <b>GDDR6</b> chip tuning from multiple memory vendors based on a deep analysis of characterization results. </li>
+        <li>Designed and Developed multiple memory, bandwidth and power measurement analysis tools that reduced processing time of key tasks by 40%-symbol and saved over 80+ hours every month. </li>
+        <li>Conducted an internal study on GDDR6 memory devices using an oscilloscope, performing <b>Spread Spectrum</b> and <b>Jitter analysis</b>, which informed design considerations for <b>GDDR7</b>.</li>
+        <li>Researched and developed a pipeline using <b>ResNet</b> for predicting passing phase and voltage regions for memory characterization.</li>
       </ul>
     </div>
   </details>
@@ -144,7 +147,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Led multiple client engagements, successfully secured an enterprise client contract worth over <b>35,000 CAD</b> for API documentation & developer environment solutions tailored to enhance <b>developer workflows</b> & <b>client engagement</b>.</li>
+        <li>Steered Typebrite to specialize in transforming raw APIs into engaging documentation using <b>Large Language Models</b> and git styled <b>developer workflows</b> and collaborative documentation generation.</li>
       </ul>
     </div>
   </details>
@@ -176,7 +180,9 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Received a <b>2021 NSERC award</b> for Summer Research. Designed, built and tested a power-saving circuit that was designed to allow for <b>6-12 months</b> of Long Range communication with no more than <b>2 AA batteries</b>.</li>
+        <li>Contributed to the development and testing of a <b>Multi-Hop self organizing LoRa 32u4</b> network for surveying and collecting waterfall data across a village in Mexico to help design and install rain water collection systems.</li>
+        <li>Designed and built outdoor electronic circuit enclosures in compliance with <b>IP65 waterproof rating</b>. Prepared detailed enclosure and circuit design documents for replicability and to be implemented in Mexico.</li>
       </ul>
     </div>
   </details>
@@ -208,7 +214,10 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>1st Place Winner of 2022 SAE Autodrive Challenge II</li>
+        <li>Developed a noise modelling technique for the car’s camera by building a custom <b>Generative Adversarial Network (GAN)</b> to accurately map from noisy images to clean images via a <b>Denoising Convolutional Neural Network (DnCNN)</b></li>
+        <li>Implemented a data serialization technique to leverage hardware Accelarated Inference.</li>
+        <li>Maintained testing track map in <b>OpenStreetMap</b> using JOSM and was one of the leaders for leading to generate and label custom Object Detection datasets</li>
       </ul>
     </div>
   </details>
@@ -240,7 +249,9 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Synthesized an ETL (Extract, Transform, Load) framework across several database platforms such as MySQL, PostgreSQL, Snowflake and BigQuery.</li>
+        <li>Implemented <b>GraphQL</b>, reducing frontend data over-fetching and improving application performance by enabling precise data retrieval, leading to a more responsive user experience.</li>
+        <li>Contributed to database management tasks, including schema design, optimization, and maintenance, ensuring data integrity and efficient querying for analytics purposes.</li>
       </ul>
     </div>
   </details>
@@ -272,7 +283,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Designed and implemented structured training programs for group sessions, incorporating skill progression, fitness components, and strategic gameplay to ensure a well-rounded and comprehensive coaching approach.</li>
+        <li>Successfully managed groups with varying skill levels, implementing differentiated instruction to address individual needs, enabling all participants to enhance their squash skills and enjoy a rewarding learning experience.</li>
       </ul>
     </div>
   </details>
@@ -304,7 +316,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Demonstrated proficiency in executing various kitchen tasks at McDonald's, including food preparation, cooking, and assembly, ensuring timely and accurate order fulfillment while maintaining high standards of food safety and hygiene.</li>
+        <li>Collaborated effectively with kitchen and front-line staff, ensuring clear communication for accurate order fulfillment, timely customer service and a smooth work environment.</li>
       </ul>
     </div>
   </details>
@@ -336,7 +349,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player, consistently demonstrating skill, dedication, and a strong understanding of game strategies.</li>
       </ul>
     </div>
   </details>
