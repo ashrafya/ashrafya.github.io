@@ -326,7 +326,7 @@ PIA
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>PIA (Pakistan Internation Airlines)</h2>
+        <h2>PIA</h2>
         <h3>Squash Colt</h3>
         <h4>July 2014 - June 2018</h4>
       </div>
