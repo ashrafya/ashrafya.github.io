@@ -214,10 +214,10 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>1st Place Winner of 2022 SAE Autodrive Challenge II</li>
         <li>Developed a noise modelling technique for the car’s camera by building a custom <b>Generative Adversarial Network (GAN)</b> to accurately map from noisy images to clean images via a <b>Denoising Convolutional Neural Network (DnCNN)</b></li>
         <li>Implemented a data serialization technique to leverage hardware Accelarated Inference.</li>
         <li>Maintained testing track map in <b>OpenStreetMap</b> using JOSM and was one of the leaders for leading to generate and label custom Object Detection datasets</li>
+        <li>1st Place Winner of 2022 SAE Autodrive Challenge II</li>
       </ul>
     </div>
   </details>
