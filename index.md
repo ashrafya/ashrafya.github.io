@@ -369,7 +369,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma
 <!-- Blood Clot Detection -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://ashrafya.github.io/AMI_BloodClotDetection"><img src="/assets/img/BrainBlankAMI.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Presentation.pdf"><img src="/assets/img/BrainBlankAMI.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -393,38 +393,9 @@ APS360 Project - Detecting Invasic Ductal Carcinoma
     <div class="text">
       <ul>
         <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
-        <li><a href="https://ashrafya.github.io/AMI_BloodClotDetection"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Presentation.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
 </div>
 
-
-
-<div class="row">
-  <div class="columnl">
-    <a target="_blank" href="https://ashrafya.github.io/AMI_BloodClotDetection" rel="noreferrer noopener" img src="/assets/img/BrainBlankAMI.png" ><button class="thumbnail"></a>
-  </div>
-  <details class="columnr">
-    <summary>
-      <div class="innerl">
-        <a target="_blank" href="https://ashrafya.github.io/AMI_BloodClotDetection" rel="noreferrer noopener"><h2>AMI Blood Clot Detection</h2></a>
-        <h4>December 2023</h4>
-      </div>
-      <div class="innerr">
-        <div class="summary-chevron-up">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </div>
-      </div>
-    </summary>
-    <div class="innerr">
-      <div class="summary-chevron-down on-top">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </div>
-    </div>
-    <ul>
-      <li>Built an image caption guessing game using <b>SIREN</b> + <b>BigGAN</b> based networks to create an image generator with a <b>CLIP-based</b> scoring function to fine tune the model based on text prompts</li>
-      <li><a href="https://ashrafya.github.io/AMI_BloodClotDetection"><b>View Project</b></a></li>
-    </ul>
-  </details>
-</div>
