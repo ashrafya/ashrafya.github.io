@@ -78,7 +78,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+        <li>Working on a decentralized market-based task allocation algorithm to optimize trajectory planning
+        for <b>heterogeneous Multi-Robot Systems</b> while leveraging a dynamic probabilistic lost person's model at Professor Beno Benhabib's Computer Integrated Manufacturing Lab (CIMLab).</li>
       </ul>
     </div>
   </details>
