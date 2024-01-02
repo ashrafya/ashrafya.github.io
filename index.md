@@ -49,17 +49,6 @@ layout: default
 </style>
 
 # Experience
-
-CIMLab Research      DONE
-AMD                  DONE
-Town of Oakville     DONE
-Typebrite            DONE
-Networks Lab         DONE
-Autoronto            DONE
-Content Turbine      
-McDonalds
-PIA
-
 ---
 <!-- CIMLAB -->
 <div class="row">
