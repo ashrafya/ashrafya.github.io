@@ -50,6 +50,7 @@ layout: default
 
 # Experience
 
+
 ---
 <!-- CIMLAB -->
 <div class="row">
@@ -247,7 +248,7 @@ layout: default
 <!-- Town Of Oakville -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://www.oakville.ca/"><img src="/assets/img/OakvilleBlank.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.oakville.ca/"><img src="/assets/img/OakvilleWhite.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
