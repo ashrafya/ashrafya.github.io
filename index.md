@@ -257,7 +257,7 @@ PIA
 <!-- Town Of Oakville -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://www.oakville.ca/"><img src="/assets/img/Oakville.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.oakville.ca/"><img src="/assets/img/OakvilleBlank.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
