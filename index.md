@@ -180,7 +180,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Received a <b>2021 NSERC award</b> for Summer Research. Designed, built and tested a power-saving circuit that was designed to allow for <b>6-12 months</b> of Long Range communication with no more than <b>2 AA batteries</b>.</li>
+        <li>Received a <b>2021 NSERC award</b> for Summer Research at Prof Jorg Liebeherr's Networks Lab.</li>
+        <li>Designed, built and tested a power-saving circuit that was designed to allow for <b>6-12 months</b> of Long Range communication with no more than <b>2 AA batteries</b>.</li>
         <li>Contributed to the development and testing of a <b>Multi-Hop self organizing LoRa 32u4</b> network for surveying and collecting waterfall data across a village in Mexico to help design and install rain water collection systems.</li>
         <li>Designed and built outdoor electronic circuit enclosures in compliance with <b>IP65 waterproof rating</b>. Prepared detailed enclosure and circuit design documents for replicability and to be implemented in Mexico.</li>
       </ul>
