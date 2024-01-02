@@ -70,7 +70,7 @@ PIA
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>U of T Computer Integrated Manufacturing Lab (CIMLab)</h2>
+        <h2>Computer Integrated Manufacturing Lab (CIMLab)</h2>
         <h3>Research Assistant</h3>
         <h4>May 2023 - Present</h4>
       </div>
@@ -125,37 +125,6 @@ PIA
   </details>
 </div>
 
-<!-- Town Of Oakville -->
-<div class="row">
-  <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://www.oakville.ca/"><img src="/assets/img/Oakville.png" 
-    class="thumbnail"/></a>
-  </div>
-  <details class="columnr">
-    <summary>
-      <div class="innerl">
-        <h2>Town of Oakville</h2>
-        <h3>Squash Instructor</h3>
-        <h4>February 2023 - Present</h4>
-      </div>
-      <div class="innerr">
-        <div class="summary-chevron-up">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </div>
-      </div>
-    </summary>
-    <div class="innerr">
-      <div class="summary-chevron-down on-top">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </div>
-    </div>
-    <div class="text">
-      <ul>
-        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
-      </ul>
-    </div>
-  </details>
-</div>
 
 <!-- Typebrite -->
 <div class="row">
@@ -198,7 +167,7 @@ PIA
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>UofT Networks Lab</h2>
+        <h2>Networks Lab</h2>
         <h3>Research Assisstant</h3>
         <h4>May 2021 - August 2021</h4>
       </div>
@@ -265,6 +234,38 @@ PIA
         <h2>Content Turbine</h2>
         <h3>Software Engineer</h3>
         <h4>March 2021 - September 2021</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
+    </summary>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Working on integrating information retrieval and <b>LLMs</b> (such as <b>GPT-4</b>) with conversational recommender systems to improve the state-of-the-art in recommendation at Scott Sanner’s Data Driven Decision Making (D3M) Lab</li>
+      </ul>
+    </div>
+  </details>
+</div>
+
+<!-- Town Of Oakville -->
+<div class="row">
+  <div class="columnl">
+    <a rel="noreferrer noopener" target="_blank" href="https://www.oakville.ca/"><img src="/assets/img/Oakville.png" 
+    class="thumbnail"/></a>
+  </div>
+  <details class="columnr">
+    <summary>
+      <div class="innerl">
+        <h2>Town of Oakville</h2>
+        <h3>Squash Instructor</h3>
+        <h4>February 2023 - Present</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
