@@ -18,8 +18,9 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
-  line-height:1.1;
+h1, h2, h3, h4 {
+  line-height:1.2;
+  margin-bottom: 0px;
 }
 
 h1 {
@@ -283,4 +284,56 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+
+// Custom CSS
+.columnl {
+  float: left;
+  width: 18%;
+}
+
+.columnr {
+  float: left;
+  width: 82%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.thumbnail {
+  max-width: 70px;
+  width: 65%;
+  height: auto;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+ul {
+  margin-left: -20px;
+  margin-bottom: 0px;
+}
+
+.projbutton {
+  border-radius: 10px;
+  background-color: #267CB9;
+  color: white;
+  height: 50px;
+  border-width: 0px;
+  width: 80%;
+  padding: 0;
+}
+
+.projbutton:hover {
+  background-color: #1e6394;
+}
+
+.icon {
+  margin: 5px;
 }
