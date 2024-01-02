@@ -249,7 +249,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Synthesized an ETL (Extract, Transform, Load) framework across several database platforms such as MySQL, PostgreSQL, Snowflake and BigQuery.</li>
+        <li>Synthesized an ETL (Extract, Transform, Load) framework across several database platforms such as <b>MySQL, PostgreSQL, Snowflake and BigQuery</b>.</li>
         <li>Implemented <b>GraphQL</b>, reducing frontend data over-fetching and improving application performance by enabling precise data retrieval, leading to a more responsive user experience.</li>
         <li>Contributed to database management tasks, including schema design, optimization, and maintenance, ensuring data integrity and efficient querying for analytics purposes.</li>
       </ul>
@@ -283,8 +283,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Designed and implemented structured training programs for group sessions, incorporating skill progression, fitness components, and strategic gameplay to ensure a well-rounded and comprehensive coaching approach.</li>
-        <li>Successfully managed groups with varying skill levels, implementing differentiated instruction to address individual needs, enabling all participants to enhance their squash skills and enjoy a rewarding learning experience.</li>
+        <li>Designed and implemented structured training programs for group sessions, incorporating skill progression, fitness components, and strategic gameplay.</li>
+        <li>Successfully managed groups with varying skill levels, implementing differentiated instruction to address individual needs, enabling a rewarding learning experience for players of all levels.</li>
       </ul>
     </div>
   </details>
@@ -316,8 +316,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Demonstrated proficiency in executing various kitchen tasks at McDonald's, including food preparation, cooking, and assembly, ensuring timely and accurate order fulfillment while maintaining high standards of food safety and hygiene.</li>
-        <li>Collaborated effectively with kitchen and front-line staff, ensuring clear communication for accurate order fulfillment, timely customer service and a smooth work environment.</li>
+        <li>Demonstrated proficiency in executing various kitchen tasks, including food preparation, cooking, and assembly, ensuring timely and accurate order fulfillment while maintaining high standards of food safety.</li>
       </ul>
     </div>
   </details>
@@ -349,7 +348,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player, consistently demonstrating skill, dedication, and a strong understanding of game strategies.</li>
+        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
       </ul>
     </div>
   </details>
