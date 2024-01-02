@@ -355,20 +355,26 @@ layout: default
   </details>
 </div>
 
-<!-- # Projects
+# Projects
+
+Capstone - Blood clot detection
+Praxis 3 - Vinyl recorde defect detection
+ECE324 Project - Twitter Sentiment Analysis based Stock Prediction
+Rover Project - Autonomous Rover Project
+CARLA Project - Hierarchical Self driving car motion planner
+APS360 Project - Detecting Invasic Ductal Carcinoma
 
 ---
-
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><button class="thumbnail projbutton">View
+    <a target="_blank" href="https://ashrafya.github.io/AMI_BloodClotDetection" rel="noreferrer noopener" img src="/assets/img/BrainBlankAMI.png" ><button class="thumbnail projbutton">View
 Project</button></a>
   </div>
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <a target="_blank" href="https://georgesaad.tech/deepdixit/" rel="noreferrer noopener"><h2>DeepDixit</h2></a>
-        <h4>April 2022</h4>
+        <a target="_blank" href="https://ashrafya.github.io/AMI_BloodClotDetection" rel="noreferrer noopener"><h2>AMI Blood Clot Detection</h2></a>
+        <h4>December 2023</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -386,122 +392,3 @@ Project</button></a>
     </ul>
   </details>
 </div>
-
-<div class="row">
-  <div class="columnl">
-    <a target="_blank" href="https://georgesaad.tech/micromalaria/pitch.pdf" rel="noreferrer noopener"><button class="thumbnail projbutton">View
-Project</button></a>
-  </div>
-  <details class="columnr">
-    <summary>
-      <div class="innerl">
-        <a target="_blank" href="https://georgesaad.tech/micromalaria/pitch.pdf" rel="noreferrer noopener"><h2>micromalaria</h2></a>
-        <h4>December 2021</h4>
-      </div>
-      <div class="innerr">
-        <div class="summary-chevron-up">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </div>
-      </div>
-    </summary>
-    <div class="innerr">
-      <div class="summary-chevron-down on-top">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </div>
-    </div>
-    <ul>
-      <li>Fine-tuned a <b>ResNet</b> classifier to identify whether cell images were infected with malaria for an African health lab</li>
-      <li>Achieved a 99% decrease in false positive rate from 19.4% to 0.16% and a 17.5% increase in accuracy from 80% to 94%</li>
-    </ul>
-  </details>
-</div>
-
-<div class="row">
-  <div class="columnl">
-    <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><button class="thumbnail projbutton">View
-Project</button></a>
-  </div>
-  <details class="columnr">
-    <summary>
-      <div class="innerl">
-        <a target="_blank" href="https://devpost.com/software/crowd-space" rel="noreferrer noopener"><h2>crowd.data</h2></a>
-        <h4>January 2021</h4>
-      </div>
-      <div class="innerr">
-        <div class="summary-chevron-up">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </div>
-      </div>
-    </summary>
-    <div class="innerr">
-      <div class="summary-chevron-down on-top">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </div>
-    </div>
-    <ul>
-      <li>Top 4 out of 30 projects submitted for the Dropbase API prize</li>
-      <li>Developed <b>Node.js</b> and <b>Express.js</b> RESTful backend and <b>React.js</b> frontend components with Chakra UI</li>
-      <li>Created 4 data models with <b>CockroachDB (PostgreSQL)</b> using the <b>Sequelize ORM</b>, and Dropbase API integrations</li>
-    </ul>
-  </details>
-</div>
-
-<div class="row">
-  <div class="columnl">
-    <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><button class="thumbnail projbutton">View
-Project</button></a>
-  </div>
-  <details class="columnr">
-    <summary>
-      <div class="innerl">
-        <a target="_blank" href="https://twitter.com/gkysaad/status/1285717081074409476?s=20" rel="noreferrer noopener"><h2>GPT-3 for Finance</h2></a>
-        <h4>July 2020</h4>
-      </div>
-      <div class="innerr">
-        <div class="summary-chevron-up">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </div>
-      </div>
-    </summary>
-    <div class="innerr">
-      <div class="summary-chevron-down on-top">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </div>
-    </div>
-    <ul>
-      <li>Built a RESTful <b>Python Flask</b> server to create and fill a balance sheet based on natural statements, using the <b>OpenAI GPT-3</b> NLP API and the Google Sheets API</li>
-      <li>Received 100,000 views, featured on InfoQ and on Y Combinator Hacker News front page</li>
-    </ul>
-  </details>
-</div>
-
-<div class="row">
-  <div class="columnl">
-    <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><button class="thumbnail projbutton">View
-Project</button></a>
-  </div>
-  <details class="columnr">
-    <summary>
-      <div class="innerl">
-        <a target="_blank" href="https://github.com/gkysaad/HCChat" rel="noreferrer noopener"><h2>HyperBot</h2></a>
-        <h4>January 2020</h4>
-      </div>
-      <div class="innerr">
-        <div class="summary-chevron-up">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
-        </div>
-      </div>
-    </summary>
-    <div class="innerr">
-      <div class="summary-chevron-down on-top">
-        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </div>
-    </div>
-    <ul>
-       <li>Won 1<sup>st</sup> out of 70 teams by building the best healthcare chatbot (Hypercare API prize)</li>
-      <li>Employed <b>Google Cloud App Engine</b> to host a RESTful <b>Python Flask</b> backend to receive POST requests from webhooks and <b>Google Firebase</b> to store and update a <b>Firestore</b> database using JSON files</li>
-      <li>Implemented Hypercare API integration to receive/send messages, schedule appointments, and find doctors</li>
-      <li>Used a Python <b>ELMo</b> module to preform <b>NLP</b> on user input and map it to a symptom to produce a diagnosis</li>
-    </ul>
-  </details>
-</div> -->
