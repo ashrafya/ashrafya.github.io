@@ -388,7 +388,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma
     </div>
     <ul>
       <li>Built an image caption guessing game using <b>SIREN</b> + <b>BigGAN</b> based networks to create an image generator with a <b>CLIP-based</b> scoring function to fine tune the model based on text prompts</li>
-      <li>[**View Project**](https://ashrafya.github.io/AMI_BloodClotDetection).</li>
+      <li><a href="https://ashrafya.github.io/AMI_BloodClotDetection"><b>View Project</b></a></li>
     </ul>
   </details>
 </div>
