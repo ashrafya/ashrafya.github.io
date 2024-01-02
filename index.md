@@ -316,7 +316,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Demonstrated proficiency in executing various kitchen tasks, including food preparation, cooking, and assembly, ensuring timely and accurate order fulfillment while maintaining high standards of food safety.</li>
+        <li>Executed various kitchen tasks, including food preparation, cooking, and assembly, ensuring timely and accurate order fulfillment while maintaining high standards of food safety.</li>
       </ul>
     </div>
   </details>
