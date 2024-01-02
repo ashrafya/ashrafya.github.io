@@ -367,8 +367,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma
 ---
 <div class="row">
   <div class="columnl">
-    <a target="_blank" href="https://ashrafya.github.io/AMI_BloodClotDetection" rel="noreferrer noopener" img src="/assets/img/BrainBlankAMI.png" ><button class="thumbnail">View
-Project</button></a>
+    <a target="_blank" href="https://ashrafya.github.io/AMI_BloodClotDetection" rel="noreferrer noopener" img src="/assets/img/BrainBlankAMI.png" ><button class="thumbnail"></a>
   </div>
   <details class="columnr">
     <summary>
