@@ -403,7 +403,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
 <!-- PRaxis 3 - Recycle Right -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/recycleRight/Recycle_Right.pdf"><img src="/assets/img/recycleRight.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><img src="/assets/img/recycleRight.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -427,7 +427,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
     <div class="text">
       <ul>
         <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
-        <li><a rel="noreferrer noopener" target="_blank" href="/recycleRight/Recycle_Right.pdf"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
