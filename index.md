@@ -369,7 +369,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
 <!-- Blood Clot Detection -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Report.pdf"><img src="/assets/img/BrainBlankAMI.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/FinalReport.pdf"><img src="/assets/img/BrainBlankAMI.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -393,7 +393,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
     <div class="text">
       <ul>
         <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
-        <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Report.pdf"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/FinalReport.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
