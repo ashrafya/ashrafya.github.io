@@ -443,7 +443,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Stock Merket Prediction via Twitter Sentiment Analysis</h2>
+        <h2>Stock Market Prediction via Twitter Sentiment Analysis</h2>
         <!-- <h3>Squash Colt</h3> -->
         <h4>April 2022</h4>
       </div>
