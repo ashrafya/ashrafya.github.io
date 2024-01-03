@@ -357,19 +357,19 @@ layout: default
 
 # Projects
 
-Capstone - Blood clot detection
-Praxis 3 - Vinyl recorde defect detection
-ECE324 Project - Twitter Sentiment Analysis based Stock Prediction
-Rover Project - Autonomous Rover Project
-CARLA Project - Hierarchical Self driving car motion planner
-APS360 Project - Detecting Invasic Ductal Carcinoma
+Capstone - Blood clot detection                                         DONE
+Praxis 3 - Vinyl recorde defect detection                               MAYBE
+ECE324 Project - Twitter Sentiment Analysis based Stock Prediction      DOABLE
+Rover Project - Autonomous Rover Project                                DOABLE
+CARLA Project - Hierarchical Self driving car motion planner            DOABLE
+APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
 
 ---
 
 <!-- Blood Clot Detection -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Presentation.pdf"><img src="/assets/img/BrainBlankAMI.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Report.pdf"><img src="/assets/img/BrainBlankAMI.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -393,7 +393,41 @@ APS360 Project - Detecting Invasic Ductal Carcinoma
     <div class="text">
       <ul>
         <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
-        <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Presentation.pdf"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/Final_Report.pdf"><b>View Project</b></a></li>
+      </ul>
+    </div>
+  </details>
+</div>
+
+
+<!-- Blood Clot Detection -->
+<div class="row">
+  <div class="columnl">
+    <a rel="noreferrer noopener" target="_blank" href="/recycleRight/Recycle_Right.pdf"><img src="/assets/img/recycleRight.png" 
+    class="thumbnail"/></a>
+  </div>
+  <details class="columnr">
+    <summary>
+      <div class="innerl">
+        <h2>Recycle Right</h2>
+        <!-- <h3>Squash Colt</h3> -->
+        <h4>December 2021</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
+    </summary>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/recycleRight/Recycle_Right.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
