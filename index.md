@@ -375,7 +375,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Blood Clot Detection</h2>
+        <h2>AMINet - Blood Clot Detection</h2>
         <!-- <h3>Squash Colt</h3> -->
         <h4>December 2023</h4>
       </div>
