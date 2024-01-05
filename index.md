@@ -357,13 +357,6 @@ layout: default
 
 # Projects
 
-Capstone - Blood clot detection                                         DONE
-Praxis 3 - Vinyl recorde defect detection                               MAYBE
-ECE324 Project - Twitter Sentiment Analysis based Stock Prediction      DOABLE
-Rover Project - Autonomous Rover Project                                DOABLE
-CARLA Project - Hierarchical Self driving car motion planner            DOABLE
-APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
-
 ---
 
 <!-- Blood Clot Detection -->
