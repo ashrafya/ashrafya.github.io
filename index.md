@@ -48,8 +48,8 @@ layout: default
   
 </style>
 
-<p># Experience</p>
-
+# Experience
+&nbsp
 
 ---
 <!-- CIMLAB -->
@@ -355,7 +355,8 @@ layout: default
   </details>
 </div>
 
-<p># Projects</p>
+# Projects
+&nbsp
 
 ---
 
