@@ -477,7 +477,7 @@ APS360 Project - Detecting Invasic Ductal Carcinoma                     DOABLE
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Invasive Ductal Carcinoma Prediction Using </h2>
+        <h2>Invasive Ductal Carcinoma Prediction Using Deep CNNs</h2>
         <!-- <h3>Squash Colt</h3> -->
         <h4>April 2021</h4>
       </div>
