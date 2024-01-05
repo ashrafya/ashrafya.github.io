@@ -48,7 +48,7 @@ layout: default
   
 </style>
 
-# Experience
+<p># Experience</p>
 
 
 ---
@@ -355,7 +355,7 @@ layout: default
   </details>
 </div>
 
-# Projects
+<p># Projects</p>
 
 ---
 
