@@ -491,7 +491,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>Orchestrated the preprocessing of a massive breast histopathology dataset, comprising over <b>550,000 50x50 pixel patches</b>, by organizing, redistributing and cleaninig data to reduce bias and skew.</li>
+        <li>Engineered two advanced IDC detection models: a stride-based <b>end-to-end Deep CNN</b> Model and a pre-trained AlexNet architecture with tailored input adaptation achieving an <b>accuracy of 86.4%</b>.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/InvasiveDuctalCarcinoma/APS360_IDC_Report.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
