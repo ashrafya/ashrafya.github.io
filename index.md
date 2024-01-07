@@ -527,7 +527,7 @@ layout: default
       <ul>
         <li>Designed and impleneted an <b>SAE Level 4 autonomous rover</b> to navigate a known maze and perform a block delivery and block pick up from an initially unkown and random position.</li>
         <li>Leveraged both <b>Histogram Localization</b> and <b>Particle Filter</b> algorithms to perform robot localization and consequential path planning.</li>
-        <li></li>
+        <li>Performed multiple design lifecycles from ideation to CAD and to real world testing in a 3-tiered milestone based design approach to build both the robot structure, electrical components, block delivery system and required software in a seamless manner.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/MazeRobot/MazeRobot.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
