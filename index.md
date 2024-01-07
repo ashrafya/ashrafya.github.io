@@ -456,7 +456,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>Engineered a custom AI model using the <b>LSTM</b> architecture and <b>BPTT</b>for S&P value forecasting leveraging key market indicators and sentiment analysis performed on tweets.</li>
+        <li>The data scraper was adapted using <b>Twint</b> and the sentiment analysis post Tokenization and Lemmatization was performed using <b>Vader</b>.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/stockMarketPrediction/stockMarketPrediction.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
