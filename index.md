@@ -561,7 +561,9 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>Used finite state machines to select safe behaviors to execute, and design optimal, smooth paths and <b>velocity profiles</b> to navigate safely around obstacles while <b>obeying traffic laws</b> and implemented in the <b>CARLA Simulator</b>.</li>
+        <li>Built <b>occupancy grid maps</b> of static and dyanmic elements in the environment and use them for <b>efficient collision checking</b>.</li>
+        <li>Performed <b>continuous curve path optimization</b> as a <b>two point boundary value problem</b> to minimize deviation from the desired path while satisfying curvature constraints.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="https://github.com/ashrafya/SelfDrivingCar"><b>View Project</b></a>  <a>, </a> <a rel="noreferrer noopener" target="_blank" href="/selfDrivingCarSpecialization/SpecializationCertificateYawarAshraf.pdf"><b>View Certificate</b></a>  </li>
         <!-- <li><a rel="noreferrer noopener" target="_blank" href="/selfDrivingCarSpecialization/SpecializationCertificateYawarAshraf.pdf"><b>View Certificate</b></a></li> -->
       </ul>
