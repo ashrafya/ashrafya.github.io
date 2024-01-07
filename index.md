@@ -367,7 +367,7 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>AMINet - Blood Clot Detection</h2>
+        <h2>AMINet - Blood Clot Detection using Vision Transformers</h2>
         <!-- <h3>Squash Colt</h3> -->
         <h4>December 2023</h4>
       </div>
@@ -384,7 +384,9 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>Used cutting edge <b>vision transformers</b> (e.g. EfficientFormerV2, MobilNetV2) to build a attention-leveraged deep learning architecture to detect brain regions affected by a <b>stroke</b> given medical imaging (mCTA) scans.</li>
+        <li>Achieved commercially competitive results while working with <b>Andromeda Medical Imaging (AMI)</b>.</li>
+        <li>Acheived less than <b>10s inference time</b> while using a <b>single CPU</b> (less 8GB RAM) and outperformed previous solution to achieve an <b>87% F1 score</b>.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/FinalReport.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
