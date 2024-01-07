@@ -420,7 +420,9 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>This project aimed to tackle the problem of <b>< 5% plastic recycling</b> in <b>Ghana</b> by focusing on the waste collection system.</li>
+        <li>Designed and prototyped a bin overflowing mechanism and an app with a cloud implementation to keep track of overflowing bins in a neighborhood.</li>
+        <li>implemented our prototype using an <b>Arduino Uno, BN-180 GPS Module, RCWL-1601 Ultrasonic sensor, HC-05 Bluetooth module, LoRa (Long Range) transciever, Firebase backend, and React frontend</b></li>
         <li><a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
