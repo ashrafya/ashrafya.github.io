@@ -113,7 +113,7 @@ layout: default
         <li>Setup and executed stressful memory tests and performed careful <b>GDDR6</b> chip tuning from multiple memory vendors based on a deep analysis of characterization results. </li>
         <li>Designed and Developed multiple memory, bandwidth and power measurement analysis tools that reduced processing time of key tasks by 40%-symbol and saved over 80+ hours every month. </li>
         <li>Conducted an internal study on GDDR6 memory devices using an oscilloscope, performing <b>Spread Spectrum</b> and <b>Jitter analysis</b>, which informed design considerations for <b>GDDR7</b>.</li>
-        <li>Researched and developed a pipeline using <b>ResNet</b> for predicting passing phase and voltage regions for memory characterization.</li>
+        <li>Researched and developed a ML pipeline for predicting passing phase and voltage regions for memory characterization.</li>
       </ul>
     </div>
   </details>
