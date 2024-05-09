@@ -62,7 +62,7 @@ layout: default
       <div class="innerl">
         <h2>Computer Integrated Manufacturing Lab</h2>
         <h3>Research Assistant</h3>
-        <h4>May 2023 - Present</h4>
+        <h4>May 2023 - April 2024</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
