@@ -131,7 +131,7 @@ layout: default
       <div class="innerl">
         <h2>Typebrite</h2>
         <h3>Co-Founder and Chief Technical Officer</h3>
-        <h4>February 2023 - Present</h4>
+        <h4>February 2023 - September 2024</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
