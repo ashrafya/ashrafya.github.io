@@ -58,3 +58,46 @@ footer {
     margin: 20px 0;
     color: #777;
 }
+
+details > summary { 
+    cursor: pointer;
+    list-style: none;
+}
+
+h2 {
+display: inline; 
+}
+
+.summary-chevron-up,
+.summary-chevron-down {
+    pointer-events: none;
+position: absolute;
+    background: #ffffff;
+right: 2em;
+z-index: 9;
+
+    svg {
+        display: block;
+    }
+}
+
+.innerl {
+float: left;
+width: 90%;
+position: relative;
+}
+
+.innerr {
+float: left;
+width: 1%;
+position: relative;
+}
+
+.text {
+padding-top: 5em;
+display: block;
+}
+
+.on-top {
+z-index: 10;
+}
