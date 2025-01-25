@@ -60,10 +60,14 @@ footer {
 }
 
 
-/* details > summary { 
+details > summary { 
     cursor: pointer;
     list-style: none;
-} */
+}
+
+summary::marker{
+    display: none;
+}
 
 h2 {
 display: inline; 
