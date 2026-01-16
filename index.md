@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <style>
   details > summary { 
     cursor: pointer;
@@ -51,6 +52,7 @@ layout: default
 # Experience
 
 ---
+
 <!-- CIMLAB -->
 <div class="row">
   <div class="columnl">
@@ -119,7 +121,6 @@ layout: default
   </details>
 </div>
 
-
 <!-- Typebrite -->
 <div class="row">
   <div class="columnl">
@@ -131,7 +132,7 @@ layout: default
       <div class="innerl">
         <h2>Typebrite</h2>
         <h3>Co-Founder and Chief Technical Officer</h3>
-        <h4>February 2023 - September 2024</h4>
+        <h4>February 2023 - January 2025</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -393,7 +394,6 @@ layout: default
   </details>
 </div>
 
-
 <!-- PRaxis 3 - Recycle Right -->
 <div class="row">
   <div class="columnl">
@@ -429,7 +429,6 @@ layout: default
   </details>
 </div>
 
-
 <!-- PRaxis 3 - Recycle Right -->
 <div class="row">
   <div class="columnl">
@@ -463,7 +462,6 @@ layout: default
     </div>
   </details>
 </div>
-
 
 <!-- APS360 IDC -->
 <div class="row">
@@ -534,7 +532,6 @@ layout: default
   </details>
 </div>
 
-
 <!-- CARLA Self Driving car Motion Planner -->
 <div class="row">
   <div class="columnl">
@@ -570,4 +567,3 @@ layout: default
     </div>
   </details>
 </div>
-
