@@ -64,7 +64,7 @@ layout: default
       <div class="innerl">
         <h2>Computer Integrated Manufacturing Lab</h2>
         <h3>Research Assistant</h3>
-        <h4>May 2023 - April 2024</h4>
+        <h4>May 2023 - Apr 2024</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -97,7 +97,7 @@ layout: default
       <div class="innerl">
         <h2>AMD</h2>
         <h3>Memory Design and Validation Intern</h3>
-        <h4>May 2022 - April 2023</h4>
+        <h4>May 2022 - Apr 2023</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -132,7 +132,7 @@ layout: default
       <div class="innerl">
         <h2>Typebrite</h2>
         <h3>Co-Founder and Chief Technical Officer</h3>
-        <h4>February 2023 - January 2025</h4>
+        <h4>Feb 2023 - Jan 2025</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -165,7 +165,7 @@ layout: default
       <div class="innerl">
         <h2>Networks Lab</h2>
         <h3>Research Assisstant</h3>
-        <h4>May 2021 - August 2021</h4>
+        <h4>May 2021 - Aug 2021</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -200,7 +200,7 @@ layout: default
       <div class="innerl">
         <h2>Autoronto</h2>
         <h3>Simulation and Deep Learning Accelaration Team Member</h3>
-        <h4>January 2021 - September 2022</h4>
+        <h4>Jan 2021 - Sep 2022</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -235,7 +235,7 @@ layout: default
       <div class="innerl">
         <h2>Content Turbine</h2>
         <h3>Software Engineer</h3>
-        <h4>March 2021 - September 2021</h4>
+        <h4>Mar 2021 - Sep 2021</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -269,7 +269,7 @@ layout: default
       <div class="innerl">
         <h2>Town of Oakville</h2>
         <h3>Squash Instructor</h3>
-        <h4>February 2023 - Present</h4>
+        <h4>Feb 2023 - Sep 2025</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -302,7 +302,7 @@ layout: default
       <div class="innerl">
         <h2>McDonalds</h2>
         <h3>Team Member</h3>
-        <h4>September 2018 - August 2020</h4>
+        <h4>Sep 2018 - Aug 2020</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -370,7 +370,7 @@ layout: default
       <div class="innerl">
         <h2>AMINet - Blood Clot Detection using Vision Transformers</h2>
         <!-- <h3>Squash Colt</h3> -->
-        <h4>December 2023</h4>
+        <h4>Dec 2023</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -405,7 +405,7 @@ layout: default
       <div class="innerl">
         <h2>Recycle Right</h2>
         <!-- <h3>Squash Colt</h3> -->
-        <h4>December 2021</h4>
+        <h4>Dec 2021</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -440,7 +440,7 @@ layout: default
       <div class="innerl">
         <h2>Stock Market Prediction via Twitter Sentiment Analysis</h2>
         <!-- <h3>Squash Colt</h3> -->
-        <h4>April 2022</h4>
+        <h4>Apr 2022</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -474,7 +474,7 @@ layout: default
       <div class="innerl">
         <h2>Invasive Ductal Carcinoma Prediction Using Deep CNNs</h2>
         <!-- <h3>Squash Colt</h3> -->
-        <h4>April 2021</h4>
+        <h4>Apr 2021</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -508,7 +508,7 @@ layout: default
       <div class="innerl">
         <h2>Self Driving Autonomous Robot</h2>
         <!-- <h3>Squash Colt</h3> -->
-        <h4>December 2023</h4>
+        <h4>Dec 2023</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -543,7 +543,7 @@ layout: default
       <div class="innerl">
         <h2>Hierarchical Self Driving Car Motion Planner: CARLA</h2>
         <!-- <h3>Squash Colt</h3> -->
-        <h4>August 2020</h4>
+        <h4>Aug 2020</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
