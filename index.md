@@ -359,6 +359,43 @@ layout: default
 
 ---
 
+<!-- Multi-Robot Task Allocation Thesis -->
+<div class="row">
+  <div class="columnl">
+    <a rel="noreferrer noopener" target="_blank" href="/Thesis/UofT_BASc_Thesis.pdf"><img src="/assets/img/multi_robot_thesis.png" 
+    class="thumbnail"/></a>
+  </div>
+  <details class="columnr">
+    <summary>
+      <div class="innerl">
+        <h2>Market-Based Task Allocation for Multi-Robot Urban Search and Rescue</h2>
+        <!-- <h3>Undergraduate Thesis</h3> -->
+        <h4>Apr 2024</h4>
+      </div>
+      <div class="innerr">
+        <div class="summary-chevron-up">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </div>
+      </div>
+    </summary>
+    <div class="innerr">
+      <div class="summary-chevron-down on-top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg>
+      </div>
+    </div>
+    <div class="text">
+      <ul>
+        <li>Developed a <b>Clustered Contract Net Protocol (CNP)</b> task allocation algorithm for coordinating <b>heterogeneous Multi-Robot Systems</b> in urban search and rescue missions.</li>
+        <li>Implemented <b>decentralized market-based approach</b> using <b>K-Nearest Neighbors clustering</b> and <b>probabilistic lost person models</b> to optimize trajectory planning for UAV and UGV search agents.</li>
+        <li>Achieved <b>80% success rate</b> across <b>900 simulations</b> in 9 cities of varying sizes, significantly outperforming baseline methods while using only 30+ robots.</li>
+        <li>Introduced <b>frustration index</b> mechanism to balance task allocation between high and low-density search areas, improving robustness and reducing search time variability.</li>
+        <li>Supervised by <b>Professor Beno Benhabib</b> at the <b>Computer Integrated Manufacturing Lab (CIMLab)</b>, University of Toronto.</li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/Thesis/UofT_BASc_Thesis.pdf"><b>View Thesis</b></a></li>
+      </ul>
+    </div>
+  </details>
+</div>
+
 <!-- Blood Clot Detection -->
 <div class="row">
   <div class="columnl">
@@ -562,7 +599,6 @@ layout: default
         <li>Built <b>occupancy grid maps</b> of static and dyanmic elements in the environment and use them for <b>efficient collision checking</b>.</li>
         <li>Performed <b>continuous curve path optimization</b> as a <b>two point boundary value problem</b> to minimize deviation from the desired path while satisfying curvature constraints.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="https://github.com/ashrafya/SelfDrivingCar"><b>View Project</b></a>  <a>, </a> <a rel="noreferrer noopener" target="_blank" href="/selfDrivingCarSpecialization/SpecializationCertificateYawarAshraf.pdf"><b>View Certificate</b></a>  </li>
-        <!-- <li><a rel="noreferrer noopener" target="_blank" href="/selfDrivingCarSpecialization/SpecializationCertificateYawarAshraf.pdf"><b>View Certificate</b></a></li> -->
       </ul>
     </div>
   </details>
